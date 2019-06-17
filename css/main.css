@@ -130,7 +130,7 @@ p {
   }
 }
 a {
-  color: #56889E;
+  color: #460874;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -138,10 +138,10 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: #77B4CE;
+  color: #286D70;
 }
 .light {
-  font-weight: 400;
+  font-weight: 600;
 }
 .navbar-custom {
   margin-bottom: 0;
@@ -210,11 +210,11 @@ a:focus {
 }
 
 .intro {
-  width: 80%;
+  width: 100%;
   height: auto;
   padding: 100px 0;
   text-align: center;
-  color: #085467;
+  color: #BBCBC8;
   background: url(../img/logo2.png) center no-repeat;
   background-color: black;
   background-size: cover;
@@ -327,7 +327,7 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: white;
-  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/logo.jpg) center no-repeat;
+  background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../img/logo2.jpg) center no-repeat;
   background-color: black;
   background-size: cover;
 }
